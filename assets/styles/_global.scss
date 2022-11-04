@@ -1,0 +1,19 @@
+$minWidth: 320px;
+$maxWidth: 1920;
+$maxWidthContainer: 1170;
+$md1: $maxWidthContainer + 12;
+$md2: 991.98;
+$md3: 767.98;
+$md4: 479.98;
+///////////////////////////////////
+
+$fontFamily: "SFUI";
+
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+
+  @media (max-width: 1720px) {
+    padding: 0 20px;
+  }
+}

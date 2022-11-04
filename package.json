@@ -1,0 +1,29 @@
+{
+  "name": "fabr-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "5.13.6",
+    "@nuxtjs/composition-api": "^0.33.1",
+    "axios": "1.1.3",
+    "core-js": "3.25.3",
+    "nuxt-edge": "latest",
+    "nuxt-svg-loader": "1.2.0",
+    "uuid": "9.0.0",
+    "v-click-outside": "3.2.0",
+    "vue": "2.7.10",
+    "vue-server-renderer": "2.7.10",
+    "vue-template-compiler": "2.7.10"
+  },
+  "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge",
+    "sass": "1.55.0",
+    "sass-loader": "10"
+  }
+}
