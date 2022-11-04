@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "nuxi dev",
-    "build": "nuxi build",
-    "start": "nuxi preview",
-    "generate": "nuxt generate"
+    "dev": "nuxi dev --host 127.0.0.1"
   },
   "dependencies": {
     "@nuxtjs/axios": "5.13.6",

@@ -63,7 +63,7 @@ defineProps({
   }
 }
 
-.navigation-item:hover ::v-deep .navigation-item{
+.navigation-item:hover ::v-deep .navigation-item {
   &__icon {
     path {
       fill: #008617;
