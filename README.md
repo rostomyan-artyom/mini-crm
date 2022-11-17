@@ -2,7 +2,7 @@
 
 ### Empty request
 
-<img style="object-fit: contain;" src="./src/assets/gifs/fabr.gif" alt="gif" width="1000" height="auto" />
+<img style="object-fit: contain;" src="./assets/gifs/fabr-new.gif" alt="gif" width="1000" height="auto" />
 
 ## Build Setup
 
